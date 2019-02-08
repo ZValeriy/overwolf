@@ -1,1 +1,1 @@
-# Overwolf demo-app
+# Overwolf o2esports
