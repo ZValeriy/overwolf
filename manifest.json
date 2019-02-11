@@ -2,13 +2,15 @@
 	"manifest_version":1,
 	"type":"WebApp",
 	"meta":{
-		"name":"Demo App",
+		"name":"o2esports",
+		"dock_button_title": "o2esports",
 		"version":"1.0.0",
 		"minimum-overwolf-version":"0.77.10",
 		"author":"Zubairov Valeriy",
 		"icon":"Icon.png",
-		"icon_gray":"Icon.png",
-		"description":"o2esports"
+		"icon_gray":"Icongray.png",
+		"description":"O2esports includes live analysis information of Win chance, strategies, team fight, counter picks, abilily's & item's damage output, disabling advantage, initiation, healing, anti-bkb skills, roshing advantage and much more. Now all these information on finger tips while watching any pro game.",
+		"launcher_icon": "launcherIcon.ico"
 	},
 	"data": {
 		"start_window":"MainWindow",
@@ -19,11 +21,11 @@
 					"resizable": true,
 					"use_os_windowing": true,
 					"size": {
-						"width":700
+						"width":1100
 						},
 					"min_size": {
-						"width":400,
-						"height":400
+						"width":700,
+						"height":600
 					}
 				}
 		}
